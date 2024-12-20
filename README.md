@@ -117,17 +117,11 @@ cc
 [images/Estructura_Tablas.png]("images/Estructura_Tablas.png")
 :
 
-#### Results
+#### Resultados
 
 
-#### Next steps
-What suggestions do you have for next steps?
 
-#### Outline of project
+#### Links
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Ventas Dataframe](data/Ventas_CapstoneProject_Agrupado.xlsx)
 
-
-##### Contact and Further Information
