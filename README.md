@@ -75,7 +75,7 @@ Data columns (total 21 columns):
 
 3. **Modelado Predictivo:**
     - **Modelo Prophet**
-    from prophet import Prophet
+
 
     Prophet es una biblioteca desarrollada por el equipo de investigación de Facebook para modelar y predecir series temporales de manera intuitiva y eficiente. Está diseñada para manejar datos con patrones de tendencia, estacionalidades múltiples y anomalías, siendo particularmente útil en escenarios donde la estacionalidad juega un papel importante.
 
@@ -109,16 +109,13 @@ Data columns (total 21 columns):
     - Comparación de métricas como MAE, RMSE y MAPE entre ambos modelos.
 cc
 5. **Predicción:**
-    - Predicción de ventas para los próximos tres meses.
+    - Predicción de ventas del 2024, utilizando información del 2023 para el entrenamiento.
 
 6. **Visualización de Resultados:**
     - Gráficos comparativos entre predicciones y datos históricos.
 
-[images/Estructura_Tablas.png]("images/Estructura_Tablas.png")
-:
 
 #### Resultados
-
 
 
 #### Links
